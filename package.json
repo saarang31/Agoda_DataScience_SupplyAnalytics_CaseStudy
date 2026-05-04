@@ -1,0 +1,15 @@
+{
+  "name": "agoda-urgency-messaging-analysis",
+  "version": "1.0.0",
+  "description": "Agoda Supply Analytics take-home case study — urgency messaging strategy across 5 cities",
+  "main": "src/build_crosstype_deck.js",
+  "scripts": {
+    "build": "node src/build_crosstype_deck.js",
+    "generate-figures": "python src/generate_eda_figures.py && python src/generate_city_price_seg_figures.py && python src/generate_cross_type_slides.py && python src/generate_updates.py"
+  },
+  "dependencies": {
+    "pptxgenjs": "^3.12.0"
+  },
+  "author": "Saarang Ahuja",
+  "license": "MIT"
+}
