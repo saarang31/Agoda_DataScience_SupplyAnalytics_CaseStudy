@@ -1,0 +1,80 @@
+**Case Study Instructions**
+
+You should prepare a PowerPoint presentation designed for a senior executive audience.
+
+The presentation should be structured, concise, and focused on both strong analytics and strategic recommendations.
+
+Please ensure your presentation:
+
+Clearly outlines the data analysis you conducted
+Highlights key findings and insights
+Explicitly states any assumptions you have made
+Explains how you would validate these assumptions if implemented
+Includes a clear Executive Summary slide with recommendations
+Most new features launched on the Agoda website aim to increase the number of bookings. One way to improve conversion is by encouraging customers to complete their bookings quickly through a call-to-action known internally as an “urgency message.”
+
+Examples:
+
+“Prices have been rising. Book now to lock in your rates!”
+“Your check-in is fast approaching. Book now to lock in your rates!”
+A Product Owner would like to explore implementing urgency messaging and has requested an analysis to understand how prices move as the booking date approaches the check-in date, and what business opportunities may arise from these findings.
+
+Attached is a randomly sampled dataset from five different cities with check-in dates between 01/10/2016 – 31/12/2016.
+
+There is no limitation on tools or technology for this analysis.
+
+Important Guidance for This Round
+
+Please note that historically, the majority of candidates did not pass the case review stage. We strongly encourage you to put in extra effort for this assignment 😊.
+
+Based on previous reviews, cases typically fell short due to:
+
+Weak or incomplete exploratory data analysis (EDA)
+Lack of depth and generality in the approach
+Limited or incorrect use of statistical methods
+Analysis not clearly connected to recommendations
+To strengthen your submission, please ensure you include:
+
+✅ A clear Executive Summary
+✅ Thorough Exploratory Data Analysis (EDA) (this is a must-have)
+✅ A well-structured and professional deck
+✅ Clear, data-driven conclusions and recommendations
+✅ An assessment of business impact
+Senior leadership will be looking not only at what you found, but also how rigorously you arrived at your conclusions and how clearly you translate analysis into business decisions.
+
+Points to Consider
+
+You may reflect on (but are not limited to) the following:
+
+At which stage of the funnel should urgency messaging be implemented?
+(Homepage, search results page, property page, or booking form?)
+What assumptions are you making?
+What factors influence price movement?
+What limitations exist in the dataset?
+What additional data would strengthen the analysis?
+What conclusions can you draw?
+What recommendations would you provide to the Product Owner?
+Presentation Expectations
+
+If shortlisted, you will have approximately 30 minutes to present your findings and recommendations to management, followed by approximately 30 minutes of Q&A.
+
+To support your preparation:
+
+Build a compelling narrative — not just analysis slides
+Focus on the “so what?” for each slide
+Provide clear, top-down, actionable recommendations
+Maintain clarity, confidence, and executive presence
+Our management team is highly analytical and data-driven, so accuracy, logical reasoning, and structured thinking are essential.
+
+Data Dictionary
+
+# – Number of records in each dataset
+ADR – Average Daily Rate in USD (Customer Total Amount / Room Nights)
+Hotel ID – Property identification number
+City ID – City identification number
+Star Rating – Property star rating
+Accommodation Type Name – Property’s accommodation type
+Chain Hotel – Indicates whether the property is part of a chain
+Booking Date – Date the booking was made
+Check-in Date – Date of check-in
+Check-out Date – Date of check-out
